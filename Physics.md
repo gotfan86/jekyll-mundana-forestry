@@ -4,7 +4,6 @@ layout: ''
 pagination: ''
 enabled: false
 description: ''
-published: false
 
 ---
 ## Famous Scientists And Their Inventions
